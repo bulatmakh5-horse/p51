@@ -25,3 +25,4 @@ echo "Привет, Git!" > hello.txt
 touch мой_файл.txt
 nano создаем_или_редактируем_файл.txt
 ```
+## ЭТО FORK
